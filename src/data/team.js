@@ -7,7 +7,9 @@ export const team = [
   {
     name: 'España',
     description: 'Integrante del equipo',
-    image: 'https://placehold.co/600x400/e9ecef/495057?text=Espa%C3%B1a',
+    image: './assets/images/España.png',
+    imageClass: 'small-image',
+    href: './profiles/España.html',
   },
   {
     name: 'Matheu',
