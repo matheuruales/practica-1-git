@@ -12,6 +12,7 @@ export const team = [
   {
     name: 'Matheu',
     description: 'Integrante del equipo',
-    image: 'https://avatars.githubusercontent.com/u/177950699?s=96&v=4',
+    image: './assets/images/177950699.jpeg',
+    href: './profiles/matheu.html',
   },
 ];
