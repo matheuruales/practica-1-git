@@ -2,7 +2,8 @@ export const team = [
   {
     name: 'Luciana',
     description: 'Integrante del equipo',
-    image: 'https://placehold.co/600x400/e9ecef/495057?text=Luciana',
+    image: './assets/images/sonic.jpg',
+    href: './profiles/Luciana.html',
   },
   {
     name: 'España',
