@@ -16,7 +16,8 @@ export function LucianaPage(profile) {
         <h1 class="display-6 fw-bold">${profile.name}</h1>
         <p class="lead mb-3">${profile.role}</p>
         <a class="btn btn-primary me-2" href="mailto:${profile.email}">Contactar</a>
-        <a class="btn btn-outline-secondary" href="${profile.linkedin}" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+        <a class="btn btn-outline-secondary me-2" href="${profile.linkedin}" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+        <a class="btn btn-outline-dark" href="${profile.github}" target="_blank" rel="noopener noreferrer">GitHub</a>
       </div>
     </section>
 
@@ -39,5 +40,9 @@ export function LucianaPage(profile) {
       ${SectionTitle('Proyectos')}
       <div class="row g-3">${projects}</div>
     </section>
+
+    <div class="border-top pt-4">
+      <a class="btn btn-secondary" href="../index.html">Regresar a la página principal</a>
+    </div>
   `;
 }

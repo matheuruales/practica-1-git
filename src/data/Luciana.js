@@ -4,6 +4,7 @@ export const Luciana = {
   image: '../assets/images/sonic.jpg',
   email: 'Lucugo.08@gmail.com',
   linkedin: 'https://www.linkedin.com/in/luciana-cuenca-26356a39b',
+  github: 'https://github.com/Luciana-Cuenca',
   summary:
     'Estudiante de Ingeniería de Software con experiencia en desarrollo web, desarrollo en Unity, inteligencia artificial, tecnologías inmersivas y diseño grafico.',
   experience: [

@@ -4,6 +4,7 @@ export const España = {
   image: '../assets/images/España.png',
   email: 'alejoespana123@gmail.com',
   linkedin: 'https://www.linkedin.com/in/alejandro-espana-meza-7a0b1b1a9/',
+  github: 'https://github.com/AlejandroEspana',
   summary:
     'Estudiante de Ingeniería de Software con experiencia en desarrollo en Unity, Enfocado en areas de Realidad Virtual, inteligencia artificial y tecnologías inmersivas.',
   experience: [

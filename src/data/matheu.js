@@ -4,6 +4,7 @@ export const matheu = {
   image: '../assets/images/177950699.jpeg',
   email: 'matheuruales2b2t@gmail.com',
   linkedin: 'https://linkedin.com/in/matheu-ruales-32221a331',
+  github: 'https://github.com/matheuruales',
   summary:
     'Estudiante de Ingeniería de Software con experiencia en desarrollo web, automatización de procesos, inteligencia artificial y tecnologías inmersivas.',
   experience: [
